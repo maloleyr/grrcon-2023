@@ -25,9 +25,9 @@ Goal: Enhance threat detection, gather intelligence, delay attack, and serve as 
 "hunnyPOT" or "honeypot"
 
 - Honeypot
- - Disadvantages: Not scalable, much maintenance, lack of plausible traffic, and can be abused.
+	- Disadvantages: Not scalable, much maintenance, lack of plausible traffic, and can be abused.
 - Honeytokens
- - Advantages: Simple, ease of use, quietness, polymorphinism, and omnipresence.
+	- Advantages: Simple, ease of use, quietness, polymorphinism, and omnipresence.
 
 
 
